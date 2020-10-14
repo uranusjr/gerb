@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "gerb"
+author = "Tzu-ping Chung"
+author-email = "uranusjr@gmail.com"
+home-page = "https://github.com/uranusjr/gerb"
+license = "ISC"
